@@ -4,15 +4,6 @@ Ant Colony Optimization Simulation
     The simulation includes worker and explorer ants, pheromone trails, food sources, and a nest.
     The ants move around the grid, collect food, and deposit pheromones to guide other ants.
     The simulation is visualized using Pygame, with a grid representing the environment and various colors for different elements.
-
-Doctor: Omar Shalash
-Eng: Ahmed Metwalli
-Course: Swarm Intelligence (RB 414)
-
-Student Names:
-    - Mohamed Youssef - 211001821
-    - Begad Tamim - 211002177
-
 """
 
 import numpy as np
